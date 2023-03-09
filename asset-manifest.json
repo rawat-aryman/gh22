@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/gh22/static/css/main.4c841595.css",
+    "main.js": "/gh22/static/js/main.24841ddf.js",
+    "static/media/spinner.gif": "/gh22/static/media/spinner.e2ffacc949faa6aeba7c.gif",
+    "index.html": "/gh22/index.html",
+    "main.4c841595.css.map": "/gh22/static/css/main.4c841595.css.map",
+    "main.24841ddf.js.map": "/gh22/static/js/main.24841ddf.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.4c841595.css",
+    "static/js/main.24841ddf.js"
+  ]
+}
